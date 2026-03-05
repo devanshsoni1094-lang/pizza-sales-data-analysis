@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis
 
-
+![Pizza Sales Dashboard](pizza_sales_dashboard.png)
 
 ## Project Overview
 This project analyzes pizza sales data to uncover key business insights related to revenue trends, customer ordering behavior, and product performance. Using SQL for data exploration and data visualization for reporting, the project transforms raw transactional data into meaningful insights that support better business decision-making.
@@ -14,6 +14,3 @@ A pizza business wants to understand its sales performance and customer demand p
 - Which pizzas are the best and worst performers?
 
 Understanding these patterns helps businesses optimize product offerings, improve sales strategies, and increase revenue.
-
-## Conclusion
-This project demonstrates how SQL and data visualization can be used to analyze sales data and uncover valuable business insights. The findings highlight important trends in customer behavior, product performance, and revenue distribution, helping businesses make more informed decisions.
